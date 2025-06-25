@@ -59,8 +59,8 @@ Husky Corp|Xintra|Medium|Subscription|[Link](https://www.xintra.org/lab/husky-co
 ## GCP (Google Cloud Platform)
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
 |-|-|-|-|-|
-GoogleCloudHunt|CyberDefenders|GCP|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/googlecloudhunt/)
-MisCloud|HTB|GCP|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/MisCloud)
+GoogleCloudHunt|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/googlecloudhunt/)
+MisCloud|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/MisCloud)
 GCP-IAM-01: Investigating Suspicious Service Account Creation|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/669661cb4c51b7f335a196b5)
 GCP-IAM-02: Investigating suspicious activities of Service account Granted with OWNER Privileges|CWL Infinity|Medium|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/6696606a4c51b7f335a196b4)
 GCP-IAM-03: Investigating Suspicious Service Account Key Creation|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/66ec30a9117d97f2e32332de)
