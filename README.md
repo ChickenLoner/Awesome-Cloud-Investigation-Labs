@@ -23,6 +23,7 @@ Nubilum2|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/Nubil
 Heartbreaker-Denouement|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/Heartbreaker-Denouement)
 OpTinselTrace24-3: Blizzard Breakdown|HTB|Medium|Subscription|[Link](https://app.hackthebox.com/sherlocks/OpTinselTrace24-3:%20Blizzard%20Breakdown)
 OpTinselTrace-2|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/OpTinselTrace-2)
+PercyPay|HTB|Easy|Free|[Link](https://app.hackthebox.com/sherlocks/PercyPay)
 AWS-IAM-01: Investigating Suspicious IAM User Account Creation|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/66951c11f3d2fce803d2190f)
 AWS-IAM-02: Investigating Suspicious IAM User Account Deletion Activity|CWL Infinity|Medium|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/669507b5f3d2fce803d2190b)
 AWS-IAM-03: Investigating suspicious activities of IAM User Granted with Full Privileges|CWL Infinity|Hard|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/66951ec1f3d2fce803d21910)
@@ -44,6 +45,7 @@ AWS-KMS-01: Investigating suspicious KMS Decrypt activity|CWL Infinity|Hard|Prem
 |-|-|-|-|-|
 Vault|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/vault-ba0cb1c036)
 AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)
+AzureSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurespray/)
 Az-IAM-01: Investigating Suspicious AZ User Failed Account Login Activit|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/66964d134c51b7f335a196ab)
 Az-IAM-02: Investigating Suspicious Service principal credential creation|CWL Infinity|Medium|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/669652ac4c51b7f335a196ac)
 Azure-IAM-03: Investigating Service Principals Permission Paradox|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/6717acb207227e1af9caf2ad)
