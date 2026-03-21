@@ -18,6 +18,7 @@ S3CredentialsHunt|CyberDefenders|Medium|Subscription|[Link](https://cyberdefende
 AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awsraid/)
 IMDSv1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/imdsv1/)
 AWSWatcher|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awswatcher/)
+AbuSESer - Trufflenet|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/abuseser-trufflenet/)
 Nubilum-1|HTB|Medium|Subscription|[Link](https://app.hackthebox.com/sherlocks/Nubilum-1)
 Nubilum2|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/Nubilum2)
 Heartbreaker-Denouement|HTB|Easy|Subscription|[Link](https://app.hackthebox.com/sherlocks/Heartbreaker-Denouement)
@@ -46,8 +47,13 @@ The Case of the Missing SSM Secrets|CWL Infinity|Hard|Premium|[Link](https://inf
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
 |-|-|-|-|-|
 Vault|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/vault-ba0cb1c036)
+Rotten Cloud|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)
+Stormweaver's Vision|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/stormweavers-vision-82966e054a)
 AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)
+Rogue Azure|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rogue-azure/)
 AzureSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurespray/)
+DynamicEscalate|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/dynamicescalate/)
+ConsentStorm|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/consentstorm/)
 Suspicious Sign-In Probe|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/66964d134c51b7f335a196ab)
 Service Principal Credential Forging Analysis|CWL Infinity|Medium|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/669652ac4c51b7f335a196ac)
 Investigating Service Principals Permission Paradox|CWL Infinity|Easy|Free|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/6717acb207227e1af9caf2ad)
