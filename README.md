@@ -1,5 +1,5 @@
 # Awesome-Cloud-Investigation-Labs
-This repository dedicated to collect list of cloud investigation on various cybersecurity platforms such as [Blue Team Labs Online](https://blueteamlabs.online/) (BTLO), [CyberDefenders](https://cyberdefenders.org/), [HackTheBox Sherlocks](https://app.hackthebox.com/sherlocks) (HTB), [CyberWarFare Labs Infinity ](https://infinity.cyberwarfare.live/cloud/challenges) (CWL Infinity) and so on (pwnlabs in progress).
+This repository dedicated to collect list of cloud investigation on various cybersecurity platforms such as [Blue Team Labs Online](https://blueteamlabs.online/) (BTLO), [CyberDefenders](https://cyberdefenders.org/), [HackTheBox Sherlocks](https://app.hackthebox.com/sherlocks) (HTB), [CyberWarFare Labs Infinity ](https://infinity.cyberwarfare.live/cloud/challenges) (CWL Infinity), [Pwned Labs](https://pwnedlabs.io/) and so on.
 
 - [AWS](#aws-amazon-web-service)
 - [Azure](#azure-microsoft-azure)
@@ -48,6 +48,10 @@ Uncovering Queue Message Heist|CWL Infinity|Medium|Premium|[Link](https://infini
 The SNS Escalation Hunt|CWL Infinity|Medium|Premium|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/68b17b7a578e149c9d3792ea)
 The Case of the Missing SSM Secrets|CWL Infinity|Hard|Premium|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/68c3fd838ac3b4d930173be2)
 RoleTrace: From Assume to Decrypt|CWL Infinity|Medium|Premium|[Link](https://infinity.cyberwarfare.live/cloud/cloud_defensive/challenges/68fb710c1ca1b3ba4234ae7d)
+Breach in the Cloud|Pwned Labs|Easy|Free|[Link](https://pwnedlabs.io/explore/breach-in-the-cloud)
+Hunt in the Cloud with Splunk|Pwned Labs|Easy|Premium|[Link](https://pwnedlabs.io/explore/hunt-in-the-cloud-with-splunk)
+Detect Threats in the Cloud with ELK Stack|Pwned Labs|Easy|Premium|[Link](https://pwnedlabs.io/explore/detect-threats-in-the-cloud-with-elk-stack)
+Investigate a Ransomware Attack in AWS using Splunk|Pwned Labs|Medium|Premium|[Link](https://pwnedlabs.io/explore/investigate-a-ransomware-attack-in-aws-using-splunk)
 
 * * *
 ## Azure (Microsoft Azure)
